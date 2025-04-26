@@ -1,4 +1,4 @@
-VERSION ?= 0.0.7
+VERSION ?= 0.0.8
 CONTAINER_MANAGER ?= podman
 IMG ?= quay.io/devtools-qe-incubator/deliverest:v${VERSION}
 
